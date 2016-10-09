@@ -1,0 +1,21 @@
+[user]
+	email = iterator.advance@gmail.com
+	name = Yuanming Hu
+
+[core]
+    editor = vim
+	autocrlf = input
+
+[alias]
+    aa = add --all :/
+    co = checkout
+    ca = commit -a
+    cm = commit -am
+    st = status
+    br = branch
+    lg = log --graph --pretty=mt:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+    d = diff
+    dc = diff --cached
+
+[color]
+    ui = true
