@@ -1,10 +1,10 @@
 [user]
-	email = iterator.advance@gmail.com
-	name = Yuanming Hu
+    email = yuanmhu@gmail.com
+    name = Yuanming Hu
 
 [core]
     editor = vim
-	autocrlf = input
+    autocrlf = input
 
 [alias]
     aa = add --all :/
