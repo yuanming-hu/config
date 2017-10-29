@@ -4,7 +4,6 @@
 
 [core]
     editor = vim
-    autocrlf = input
 
 [alias]
     aa = add --all :/
